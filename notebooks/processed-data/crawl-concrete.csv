@@ -1,0 +1,23 @@
+Title,Published in,Conference
+Mamba4rec: Towards efficient sequential recommendation with selective state space models,Workshop,RelKD@KDD 2024
+Matrrec: Uniting mamba and transformer for sequential recommendation,Pre-print,
+Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation,Pre-print,
+Ssd4rec: a structured state space duality model for efficient sequential recommendation,Pre-print,
+EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation,Pre-print,
+TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model,Pre-print,
+Bidirectional gated mamba for sequential recommendation,Conference,AAAI 2025 Poster Session
+M3Rec: Selective State Space Models with Mixture-of-Modality Experts for Multi-Modal Sequential Recommendation,Conference,IEEE ICASSP 2025
+Mlsa4rec: Mamba combined with low-rank decomposed self-attention for sequential recommendation,Pre-print,
+SIGMA: Selective Gated Mamba for Sequential Recommendation,Conference,AAAI 2025 Poster Session
+A Local context enhanced Consistency-aware Mamba-based Sequential Recommendation model,Journal,Information Processing & Management (2025)
+Mamba for Scalable and Efficient Personalized Recommendations,Pre-print,
+Fine-grained global modeling learning for personalized federated sequential recommender,Conference,IEEE ICASSP 2025
+GeoMamba: Towards Efficient Geography-aware Sequential POI Recommendation,Journal,IEEE Access 2025
+Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation,Conference,RecSys 2025
+Graph-Mamba 기반 POI 추천 시스템,,
+MUFM: A Mamba-Enhanced Feedback Model for Micro Video Popularity Prediction,Pre-print,
+Hyperbolic Variational Graph Auto-Encoder for Next POI Recommendation,Conference,WWW 2025 Poster Session
+TTT4Rec: A Test-Time Training Approach for Rapid Adaption in Sequential Recommendation,Pre-print,
+"Train once, deploy anywhere: Matryoshka representation learning for multimodal recommendation",Conference,Findings of EMNLP 2024
+Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation,Conference,CIKM 2024
+Linear recurrent units for sequential recommendation,Conference,WSDM 2024
