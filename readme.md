@@ -3,7 +3,6 @@
 | Title | Published in | Conference |
 |----------|----------|----------|
 |Auto Encoding Neural Process for Multi-interest Recommendation|Conference|AAAI 2025|
-|Bidirectional gated mamba for sequential recommendation|Conference|AAAI 2025 Poster Session|
 |SIGMA: Selective Gated Mamba for Sequential Recommendation|Conference|AAAI 2025 Poster Session|
 |Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation|Conference|CIKM 2024|
 |Train once, deploy anywhere: Matryoshka representation learning for multimodal recommendation|Conference|Findings of EMNLP 2024|
@@ -111,8 +110,8 @@ Tabular data after manual categorization can be found in `notebooks/processed-da
 
 I manually search the web to find where the relevant papers were submitted to.
 
-<b>Search A</b> : 22 concrete method papers concerning mamba application in recommender systems were found in top 300 articles. Among those articles, 12 papers were accepted to significant journals and conferences.
+<b>Search A</b> : 21 concrete method papers concerning mamba application in recommender systems were found in top 300 articles. Among those articles, 11 papers were accepted to significant journals and conferences.
 
-<b>Search B</b> : 35 concrete method AI/ML research papers concerning mamba application in recommender systems were found in top 100 articles. Among those articles, 26 papers were accepted to significant journals and conferences.
+<b>Search B</b> : 33 concrete method AI/ML research papers concerning mamba application in recommender systems were found in top 100 articles. Among those articles, 21 papers were accepted to significant journals and conferences.
 
-Finally, paper lists from <b>Search A</b> and <b>Search B</b> are merged. After removing duplicate rows, a total of 39 papers featured concrete methods of mamba application in recommender systems. Among those 39 papers, 23 papers were accepted to recognized journals and conferences.
+Finally, paper lists from <b>Search A</b> and <b>Search B</b> are merged. After removing duplicate rows, a total of 38 papers featured concrete methods of mamba application in recommender systems. Among those 38, 22 papers were accepted to recognized journals and conferences.
