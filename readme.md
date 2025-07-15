@@ -1,4 +1,49 @@
-# Workflow
+# List of relevant papers
+
+| Title | Published in | Conference |
+|----------|----------|----------|
+|Auto Encoding Neural Process for Multi-interest Recommendation|Conference|AAAI 2025|
+|Bidirectional gated mamba for sequential recommendation|Conference|AAAI 2025 Poster Session|
+|SIGMA: Selective Gated Mamba for Sequential Recommendation|Conference|AAAI 2025 Poster Session|
+|Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation|Conference|CIKM 2024|
+|Train once, deploy anywhere: Matryoshka representation learning for multimodal recommendation|Conference|Findings of EMNLP 2024|
+|Judge a Book by its Cover: A Multimodal Approach to Book Genre Prediction|Conference|ICWR 2025|
+|F2MSA2: Integrating Mamba and Self-Attention for Sequential Recommendation|Conference|IEEE ICAIRC 2025|
+|M3Rec: Selective State Space Models with Mixture-of-Modality Experts for Multi-Modal Sequential Recommendation|Conference|IEEE ICASSP 2025|
+|Fine-grained global modeling learning for personalized federated sequential recommender|Conference|IEEE ICASSP 2025|
+|Test-Time Alignment for Tracking User Interest Shifts in Sequential Recommendation|Conference|RecSys 2025|
+|STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation|Conference|SIGIR 2025|
+|PatchRec: Multi-Grained Patching for Efficient LLM-based Sequential Recommendation|Conference|SIGIR 2025|
+|Mitigating Distribution Shifts in Sequential Recommendation: An Invariance Perspective|Conference|SIGIR 2025|
+|Linear recurrent units for sequential recommendation|Conference|WSDM 2024|
+|Hyperbolic Variational Graph Auto-Encoder for Next POI Recommendation|Conference|WWW 2025 Poster Session|
+|Frequency-Augmented Mixture-of-Heterogeneous-Experts Framework for Sequential Recommendation|Conference|WWW 2025 Poster Session 3|
+|Covariance Attention Guidance Mamba Hashing for cross-modal retrieval|Journal|Engineering Applications of Artificial Intelligence|
+|Coformer for session-based recommendation with dual positional information|Journal|Expert Systems with Applications (2025.07)|
+|GeoMamba: Towards Efficient Geography-aware Sequential POI Recommendation|Journal|IEEE Access 2025|
+|GeoMamba: Towards Multi-granular POI Recommendation with Geographical State Space Model|Journal|IEEE Access 2025|
+|A Local context enhanced Consistency-aware Mamba-based Sequential Recommendation model|Journal|Information Processing & Management (2025)|
+|EMK-KEN: A high-performance approach for assessing knowledge value in citation network|Journal|Knowledge-Based Systems|
+|Mamba4rec: Towards efficient sequential recommendation with selective state space models|Workshop|RelKD@KDD 2024|
+|EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation|Pre-print|N/A|
+|Gated Rotary-Enhanced Linear Attention for Long-term Sequential Recommendation|Pre-print|N/A|
+|Graph-Mamba 기반 POI 추천 시스템|Pre-print|N/A|
+|HMamba: Hyperbolic Mamba for Sequential Recommendation|Pre-print|N/A|
+|M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation|Pre-print|N/A|
+|MMM4Rec: An Transfer-Efficient Framework for Multi-modal Sequential Recommendation|Pre-print|N/A|
+|MUFM: A Mamba-Enhanced Feedback Model for Micro Video Popularity Prediction|Pre-print|N/A|
+|Mamba for Scalable and Efficient Personalized Recommendations|Pre-print|N/A|
+|Matrrec: Uniting mamba and transformer for sequential recommendation|Pre-print|N/A|
+|Mlsa4rec: Mamba combined with low-rank decomposed self-attention for sequential recommendation|Pre-print|N/A|
+|PARSE-Ego4D: Toward Bidirectionally Aligned Action Recommendations for Egocentric Videos|Pre-print|N/A|
+|SS4Rec: Continuous-Time Sequential Recommendation with State Space Models|Pre-print|N/A|
+|Ssd4rec: a structured state space duality model for efficient sequential recommendation|Pre-print|N/A|
+|TTT4Rec: A Test-Time Training Approach for Rapid Adaption in Sequential Recommendation|Pre-print|N/A|
+|TiM4Rec: An Efficient Sequential Recommendation Model Based on Time-Aware Structured State Space Duality Model|Pre-print|N/A|
+|Uncovering Selective State Space Model's Capabilities in Lifelong Sequential Recommendation|Pre-print|N/A|
+
+
+# Data collection workflow
 The workflow below has been applied to two sources of Google Scholar Search results.
 
 <b>Search A</b> :
@@ -70,4 +115,4 @@ I manually search the web to find where the relevant papers were submitted to.
 
 <b>Search B</b> : 35 concrete method AI/ML research papers concerning mamba application in recommender systems were found in top 100 articles. Among those articles, 26 papers were accepted to significant journals and conferences.
 
-11 papers of <b>Search A</b> and <b>Search B</b> overlap. After removing the duplicates, a total of 40 papers featured concrete methods of mamba application in recommender systems. Among those 40 papers, 27 papers were accepted to recognized journals and conferences.
+Finally, paper lists from <b>Search A</b> and <b>Search B</b> are merged. After removing duplicate rows, a total of 39 papers featured concrete methods of mamba application in recommender systems. Among those 39 papers, 23 papers were accepted to recognized journals and conferences.
