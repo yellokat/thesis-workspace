@@ -24,6 +24,7 @@
 |A Local context enhanced Consistency-aware Mamba-based Sequential Recommendation model|Journal|Information Processing & Management (2025)|
 |EMK-KEN: A high-performance approach for assessing knowledge value in citation network|Journal|Knowledge-Based Systems|
 |Mamba4rec: Towards efficient sequential recommendation with selective state space models|Workshop|RelKD@KDD 2024|
+|A Novel Mamba-based Sequential Recommendation Method|Pre-print|Huawei|
 |EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation|Pre-print|N/A|
 |Gated Rotary-Enhanced Linear Attention for Long-term Sequential Recommendation|Pre-print|N/A|
 |Graph-Mamba 기반 POI 추천 시스템|Pre-print|N/A|
