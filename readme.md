@@ -3,6 +3,7 @@
 | Title | Published in | Conference |
 |----------|----------|----------|
 |Auto Encoding Neural Process for Multi-interest Recommendation|Conference|AAAI 2025|
+|GeoMamba: Towards Multi-granular POI Recommendation with Geographical State Space Model|Conference|AAAI 2025|
 |SIGMA: Selective Gated Mamba for Sequential Recommendation|Conference|AAAI 2025 Poster Session|
 |Behavior-Dependent Linear Recurrent Units for Efficient Sequential Recommendation|Conference|CIKM 2024|
 |Train once, deploy anywhere: Matryoshka representation learning for multimodal recommendation|Conference|Findings of EMNLP 2024|
@@ -20,7 +21,6 @@
 |Covariance Attention Guidance Mamba Hashing for cross-modal retrieval|Journal|Engineering Applications of Artificial Intelligence|
 |Coformer for session-based recommendation with dual positional information|Journal|Expert Systems with Applications (2025.07)|
 |GeoMamba: Towards Efficient Geography-aware Sequential POI Recommendation|Journal|IEEE Access 2025|
-|GeoMamba: Towards Multi-granular POI Recommendation with Geographical State Space Model|Journal|IEEE Access 2025|
 |A Local context enhanced Consistency-aware Mamba-based Sequential Recommendation model|Journal|Information Processing & Management (2025)|
 |EMK-KEN: A high-performance approach for assessing knowledge value in citation network|Journal|Knowledge-Based Systems|
 |Mamba4rec: Towards efficient sequential recommendation with selective state space models|Workshop|RelKD@KDD 2024|
